@@ -1,0 +1,100 @@
+{
+  "courses": [
+    {
+      "name": "Forritun - inngangur",
+      "code": "FOR1A3U",
+      "credits": 3,
+      "prerequisites": []
+    },
+    {
+      "name": "Forritun - myndræn notendaskil",
+      "code": "FOR1B3U",
+      "credits": 3,
+      "prerequisites": [
+        "FOR1A3U"
+      ]
+    },
+    {
+      "name": "Forritun - formun gagna",
+      "code": "FOR2B2U",
+      "credits": 3,
+      "prerequisites": [
+        "FOR1B3U"
+      ]
+    },
+    {
+      "name": "Netkerfisgrunnur",
+      "code": "CNA2A3U",
+      "credits": 3,
+      "prerequisites": [
+        "TÆK2A3U"
+      ]
+    },
+    {
+      "name": "Notkun gagnasafna",
+      "code": "GSÖ2B2U",
+      "credits": 2,
+      "prerequisites": [
+        "GSÖ1F2U"
+      ]
+    },
+    {
+      "name": "Notkun gagnasafna - formun",
+      "code": "GSÖ1F2U",
+      "credits": 2,
+      "prerequisites": [
+        "GSÖ1G2U"
+      ]
+    },
+    {
+      "name": "Notkun gagnasafna - grunnur",
+      "code": "GSÖ1G2U",
+      "credits": 2,
+      "prerequisites": []
+    },
+    {
+      "name": "Talnakerfi og rökrásir",
+      "code": "TÆK1A1U",
+      "credits": 1,
+      "prerequisites": []
+    },
+    {
+      "name": "Tölvutækni",
+      "code": "TÆK2B2U",
+      "credits": 2,
+      "prerequisites": [
+        "TÆK2A3U"
+      ]
+    },
+    {
+      "name": "Tölvutækni - vélbúnaður og jaðartæki",
+      "code": "TÆK2A3U",
+      "credits": 3,
+      "prerequisites": [
+        "TÆK1A1U"
+      ]
+    },
+    {
+      "name": "Vefhönnun - gagnvirkni",
+      "code": "VSH2A3U",
+      "credits": 3,
+      "prerequisites": [
+        "VSH1A3U"
+      ]
+    },
+    {
+      "name": "Vefhönnun - grunnur",
+      "code": "VSH1A3U",
+      "credits": 3,
+      "prerequisites": []
+    },
+    {
+      "name": "Vefhönnun - vefþróun",
+      "code": "VSH2B2U",
+      "credits": 2,
+      "prerequisites": [
+        "VSH2A3U"
+      ]
+    }
+  ]
+}

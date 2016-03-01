@@ -1,0 +1,217 @@
+{
+  "courses": [
+    {
+      "name": "Aðgangur að WAN",
+      "code": "CNA3C3U",
+      "credits": 3,
+      "prerequisites": [
+        "CNA3A3U",
+        "CNA3B3U"
+      ]
+    },
+    {
+      "name": "Hlutbundin forritun",
+      "code": "FOR2C3U",
+      "credits": 3,
+      "prerequisites": [
+        "GRU2L4U"
+      ]
+    },
+    {
+      "name": "Forritun smátækja",
+      "code": "FOR3S3U",
+      "credits": 3,
+      "prerequisites": [
+        "FOR3A3U"
+      ]
+    },
+    {
+      "name": "Gagnasafnsfræði - stefjur",
+      "code": "GSF2A3U",
+      "credits": 3,
+      "prerequisites": [
+        "GRU2L4U"
+      ]
+    },
+    {
+      "name": "Gagnasafnsfræði - vensluð gagnasöfn",
+      "code": "GSF2B3U",
+      "credits": 3,
+      "prerequisites": [
+        "GSF2A3U"
+      ]
+    },
+    {
+      "name": "Gagnasafnsfræði - normal form",
+      "code": "GSF3A3U",
+      "credits": 3,
+      "prerequisites": [
+        "GSF2B3U"
+      ]
+    },
+    {
+      "name": "3D leikjaforritun",
+      "code": "FOR3D3U",
+      "credits": 3,
+      "prerequisites": [
+        "FOR3G3U"
+      ]
+    },
+    {
+      "name": "Inngangur að leikjaforritun",
+      "code": "FOR3G3U",
+      "credits": 3,
+      "prerequisites": [
+        "FOR2C3U",
+        "STÆ3036S"
+      ]
+    },
+    {
+      "name": "Linux - kerfisstjórnun",
+      "code": "LIN2A3U",
+      "credits": 3,
+      "prerequisites": [
+        "GRU2L4U"
+      ]
+    },
+    {
+      "name": "Linux - netstjórnun",
+      "code": "LIN3A3U",
+      "credits": 3,
+      "prerequisites": [
+        "LIN2A3U"
+      ]
+    },
+    {
+      "name": "Linux - skriftur",
+      "code": "LIN3B3U",
+      "credits": 3,
+      "prerequisites": [
+        "LIN3A3U"
+      ]
+    },
+    {
+      "name": "Lokaverkefni í grunndeild",
+      "code": "GRU2L4U",
+      "credits": 4,
+      "prerequisites": [
+        "FOR2B2U",
+        "GSÖ2B2U",
+        "VSH2B2U"
+      ]
+    },
+    {
+      "name": "Netforritun og þráðavinnsla",
+      "code": "FOR3A3U",
+      "credits": 3,
+      "prerequisites": [
+        "FOR2C3U"
+      ]
+    },
+    {
+      "name": "Netkerfisgrunnur",
+      "code": "CNA2A3U",
+      "credits": 3,
+      "prerequisites": [
+        "TÆK2A3U"
+      ]
+    },
+    {
+      "name": "Reiknirit - algorithmar",
+      "code": "FOR3R3U",
+      "credits": 3,
+      "prerequisites": [
+        "FOR2C3U"
+      ]
+    },
+    {
+      "name": "Vélmenni",
+      "code": "ROB2A3U",
+      "credits": 3,
+      "prerequisites": [
+        "GRU2L4U"
+      ]
+    },
+    {
+      "name": "Vélmenni II",
+      "code": "ROB2B3U",
+      "credits": 3,
+      "prerequisites": [
+        "ROB2A3U"
+      ]
+    },
+    {
+      "name": "Samskiptastaðlar við beiningu",
+      "code": "CNA3A3U",
+      "credits": 3,
+      "prerequisites": [
+        "CNA2A3U",
+        "GRU2L4U"
+      ]
+    },
+    {
+      "name": "Staðarnet og þráðlaus netkerfi",
+      "code": "CNA3B3U",
+      "credits": 3,
+      "prerequisites": [
+        "CNA2A3U"
+      ]
+    },
+    {
+      "name": "Vefforritun 1",
+      "code": "VEF2A3U",
+      "credits": 3,
+      "prerequisites": [
+        "GRU2L4U"
+      ]
+    },
+    {
+      "name": "Vefforitun 2",
+      "code": "VEF3A3U",
+      "credits": 3,
+      "prerequisites": [
+        "VEF2A3U"
+      ]
+    },
+    {
+      "name": "Vefþróun",
+      "code": "VEF2B3U",
+      "credits": 3,
+      "prerequisites": [
+        "GRU2L4U"
+      ]
+    },
+    {
+      "name": "Vefþróun",
+      "code": "VEF3B3U",
+      "credits": 3,
+      "prerequisites": [
+        "VEF2B3U"
+      ]
+    },
+    {
+      "name": "Windows Server - kerfisstjórnun",
+      "code": "WIN2A3U",
+      "credits": 3,
+      "prerequisites": [
+        "GRU2L4U"
+      ]
+    },
+    {
+      "name": "Windows Server - netstjórnun",
+      "code": "WIN3A3U",
+      "credits": 3,
+      "prerequisites": [
+        "WIN2A3U"
+      ]
+    },
+    {
+      "name": "Windows Server - skriftur",
+      "code": "WIN3B3U",
+      "credits": 3,
+      "prerequisites": [
+        "WIN3A3U"
+      ]
+    }
+  ]
+}

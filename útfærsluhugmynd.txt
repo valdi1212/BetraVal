@@ -1,0 +1,15 @@
+Verkefnalýsing:
+Tilgangurinn í þessu verkefni er að búa til síðu sem leyfir þér að velja áfanga fyrir næstu önn á betri og þægilegri hátt heldur en Inna gerir.
+
+Útfærsla:
+    Þrep 1:
+    Búa til tré sem sýnir alla þá áfanga sem nemandi hefur í boði, og þá sem hann hefur núþegar tekið.
+
+    Þrep 2:
+    Leyfa notanda að skrá sig inn til að geyma upplýsingar sem hann skráir t.d. hvaða áfanga hann hefur tekið, hvaða áfanga hann ætlar að taka, etc.
+
+    Þrep 3:
+    Búa til séraðgang fyrir admin sem getur breytt áföngum þ.e.s. bætt við áföngum, eytt áföngum, o.s.frv.
+
+    Þrep 4?:
+    Gera stuðning fyrir fleira en eina braut. Þar að auki gera eitthverja leið fyrir admina að skrá sig, sem væri þá staðfest af admin, frekar en að gera séraðgang í hvert skipti.
